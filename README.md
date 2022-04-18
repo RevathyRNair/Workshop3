@@ -6,4 +6,5 @@ git pull
 git status
 git checkout
 git add
-etc.
+git commit -m "message"
+git push
